@@ -1,3 +1,8 @@
+VOCdevkit/
+VOCtest_06-Nov-2007.tar
+data/
+ssl_model.pth
+
 dataset/
 
 # Byte-compiled / optimized / DLL files
